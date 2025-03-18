@@ -13,7 +13,7 @@ import oneLeg from './1leg.png';
 import dead from './dead.png';
 
 const pics = [noose, upperBody, upperandlower, oneArm, bothArms, oneLeg, dead];
-const words = ['saints', 'falcons', 'panthers', 'buccaneers', 'texans', 'bears', 'cowboys'];
+const words = ['saints', 'falcons', 'panthers', 'buccaneers', 'texans', 'bears', 'cowboys','drew brees','chargers'];
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
 class HangmanGame extends React.Component {
