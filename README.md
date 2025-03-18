@@ -16,7 +16,7 @@ Hint: All of the words are based on NFL teams.
 8. Once completed, run 'npm start' and it should open your default browser on a local host to the file.
 9. Now that the file is opened, you have now accessed the hangman game! Click any of the letter buttons to guess the word!
 10. To change any of the contents inside to your liking, you can make adjustments to the downloaded documents in the 'HangmanGame.js' file or the 'LetterBox.js', 'SingleLetterSearchBar.js' 
-11. 
+    
 ## Available Scripts
 
 In the project directory, you can run:
