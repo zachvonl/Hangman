@@ -1,9 +1,10 @@
-### 'Hangman Game'
+# Hangman Game
 This Hangman game is a React-based application where players guess letters to reveal a hidden word. The game randomly selects a word from a predefined list and displays it with underscores for unguessed letters. Players click on letter boxes to make guesses; correct guesses reveal the letter in the word, while incorrect guesses turn the letter box red and update the hangman image. The game tracks used and incorrect letters, and it ends when the player either guesses the entire word or makes too many incorrect guesses. The UI is centered and responsive, with a clean layout featuring a hangman image, a "New Game" button, and a grid of clickable alphabet letters. The program uses state management to handle game logic and dynamically updates the display based on player input. 
 
 There is a video named "Hangman- Google Chrome" in the files if you want to see an example of the program.
 
 Hint: All of the words are based on NFL teams.
+
 
 # How to use Program
 
